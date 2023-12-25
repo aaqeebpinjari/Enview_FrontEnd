@@ -8,7 +8,7 @@ for running the application.
     **https://github.com/aaqeebpinjari/Enview_FrontEnd.git**
   
 # 2.Once the cloding is done run the follwoing command
-  **npm install**
+  # npm install
 this will allow to fetch all necessary files required for execution of the website.
 
 
