@@ -1,8 +1,8 @@
-# 🚀 Getting Started with Enview Front End Task: 
-# Driver Monitoring System
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# About Driver Monitoring System 🚀: 
+The Driver Monitoring System website enhances fleet safety by detecting risky driver actions. The user-friendly interface displays alerts, allowing users to search based on behavior type, vehicle number, or date range. Users can mark false alarms, and bonus features include a vehicle dropdown and timestamps in the user's time zone. The code prioritizes readability and functionality, offering an effective solution for monitoring and improving driver behavior.
 
 # 1. Clone the Project using following link
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 
 Clone my project from the repository and run the following command for downloading the necessary node modules 
 for running the application.
     **https://github.com/aaqeebpinjari/Enview_FrontEnd.git**
@@ -28,4 +28,4 @@ You may also see any lint errors in the console.
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-# Happy Coding...
+# Happy Coding ✨✨✨...
