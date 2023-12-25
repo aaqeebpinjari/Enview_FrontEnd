@@ -1,5 +1,5 @@
-# Getting Started with 
-# Enview Front End Task: Driver Monitoring System
+# 🚀 Getting Started with Enview Front End Task: 
+# Driver Monitoring System
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # 1. Clone the Project using following link
@@ -15,7 +15,7 @@ this will allow to fetch all necessary files required for execution of the websi
 # 3.Then at last after all the files had been downloaded, run the following commnads in terminal to run the project.
 In the project directory terminal, you can run:
 
-  **npm start**
+  # npm start
   
 (Runs the app in the development mode)
 This will indirectly open the browser and website will run at browser locally.
